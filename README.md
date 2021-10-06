@@ -13,4 +13,4 @@ Using Makefile you can create library file libftprintf.a
 * `make fclean` to remove executable files.
 * `make re` to recompile this project.
 
-![image](https://user-images.githubusercontent.com/59732804/136248006-0617e4c3-552a-4109-861a-1bd9258a3a90.png)
+![image](https://user-images.githubusercontent.com/59732804/136248397-c8016256-c0fc-412b-9641-e44bae681131.png)
